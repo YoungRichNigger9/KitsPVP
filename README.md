@@ -1,5 +1,5 @@
 # KitsPVPpe
-* This plugins was only tested on [Genisys](https://github.com/iTXTech/Genisys)!
+* This plugins was only tested on [Genisys](https://github.com/iTXTech/Genisys)!and has not been tested on any other server software. If you find compatibility issues, please use the [issue tracker](https://github.com/Yoyu666/KitsPVP/issues) to report them.
 * This plugins is for your MCPE server!
 
 ##Info
